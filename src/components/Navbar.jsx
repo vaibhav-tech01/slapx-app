@@ -42,7 +42,9 @@ export default function Navbar() {
 
         {/* CTA */}
         <a
-          href="#download"
+          href="https://drive.google.com/file/d/1wZeQRq7QZU077UbhsMtVx9S0ftj3wpyF/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
           className="hidden rounded-full bg-primary px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-primary-dark md:inline-block"
         >
           Download App

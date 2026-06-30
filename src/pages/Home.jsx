@@ -113,7 +113,9 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#download"
+              href="https://drive.google.com/file/d/1wZeQRq7QZU077UbhsMtVx9S0ftj3wpyF/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block rounded-full bg-primary px-8 py-3.5 text-base font-semibold text-white shadow-lg transition hover:bg-primary-dark hover:shadow-xl"
             >
               Download Now
@@ -139,7 +141,7 @@ export default function Home() {
               Download for iOS
             </a>
             <a
-              href="#"
+              href="https://drive.google.com/file/d/1wZeQRq7QZU077UbhsMtVx9S0ftj3wpyF/view?usp=sharing" target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border-2 border-white px-8 py-3.5 text-base font-semibold text-white transition hover:bg-white hover:text-primary"
             >
               Download for Android
