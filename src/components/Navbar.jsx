@@ -42,7 +42,7 @@ export default function Navbar() {
 
         {/* CTA */}
         <a
-          href="https://drive.google.com/file/d/1wZeQRq7QZU077UbhsMtVx9S0ftj3wpyF/view?usp=sharing"
+          href="https://play.google.com/store/apps/details?id=com.slapx.prankapp"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden rounded-full bg-primary px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-primary-dark md:inline-block"
@@ -90,7 +90,10 @@ export default function Navbar() {
             ))}
             <li>
               <a
-                href="#download"
+                href="https://play.google.com/store/apps/details?id=com.slapx.prankapp"
+                target="_blank"
+                rel="noopener noreferrer"
+                onClick={() => setOpen(false)}
                 className="mt-2 block rounded-full bg-primary px-5 py-2 text-center text-sm font-semibold text-white shadow-sm transition hover:bg-primary-dark"
               >
                 Download App

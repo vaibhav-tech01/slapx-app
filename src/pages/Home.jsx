@@ -50,7 +50,7 @@ export default function Home() {
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
               <a
-                href="#download"
+                href="https://play.google.com/store/apps/details?id=com.slapx.prankapp"
                 className="inline-flex items-center gap-2 rounded-full bg-primary px-8 py-3.5 text-base font-semibold text-white shadow-lg shadow-primary/25 transition hover:bg-primary-dark hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-primary/40"
               >
                 <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24"><path d="M3.609 1.814L13.792 12 3.61 22.186a.996.996 0 01-.61-.92V2.734a1 1 0 01.609-.92zm10.89 10.893l2.302 2.302-10.937 6.333 8.635-8.635zm3.199-3.199l2.302 2.302a1 1 0 010 1.38l-2.302 2.302L15.195 12l2.503-2.492zM5.864 2.658L16.8 9.99l-2.302 2.302L5.864 2.658z" /></svg>
@@ -113,7 +113,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://drive.google.com/file/d/1wZeQRq7QZU077UbhsMtVx9S0ftj3wpyF/view?usp=sharing"
+              href="https://play.google.com/store/apps/details?id=com.slapx.prankapp"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block rounded-full bg-primary px-8 py-3.5 text-base font-semibold text-white shadow-lg transition hover:bg-primary-dark hover:shadow-xl"
@@ -141,7 +141,7 @@ export default function Home() {
               Download for iOS
             </a>
             <a
-              href="https://drive.google.com/file/d/1wZeQRq7QZU077UbhsMtVx9S0ftj3wpyF/view?usp=sharing" target="_blank" rel="noopener noreferrer"
+              href="https://play.google.com/store/apps/details?id=com.slapx.prankapp" target="_blank" rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border-2 border-white px-8 py-3.5 text-base font-semibold text-white transition hover:bg-white hover:text-primary"
             >
               Download for Android
